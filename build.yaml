@@ -21,7 +21,7 @@
 include:
   - board: nrfmicro_13_52833
     shield: jian_left
-    snippet: studio-rpc-usb-uart
-    cmake-args: -DCONFIG_ZMK_STUDIO=y
+#   snippet: studio-rpc-usb-uart
+#   cmake-args: -DCONFIG_ZMK_STUDIO=y
   - board: nrfmicro_13_52833
     shield: jian_right
